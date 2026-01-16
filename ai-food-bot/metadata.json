@@ -1,0 +1,7 @@
+{
+  "name": "AI Food Bot",
+  "description": "An AI-powered restaurant assistant providing personalized recommendations, menu insights, and reservation ",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
