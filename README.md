@@ -3,6 +3,8 @@
 An **AI-powered food ordering chatbot** that delivers a smart, conversational restaurant ordering experience.  
 Built using **React + TypeScript**, integrated with **Google Gemini AI**, and optimized with **Vite** for fast performance.
 
+🚀 **Live Demo:** https://ai-food-bot.vercel.app/
+
 ---
 
 ## 🚀 Features
@@ -63,7 +65,7 @@ Built using **React + TypeScript**, integrated with **Google Gemini AI**, and op
 
 ### 1️⃣ Clone the Repository
 
-    git clone https://github.com/MoreAkshata/ai-food-bot.git
+    git clone https://github.com/your-username/ai-food-bot.git
     cd ai-food-bot
 
 ### 2️⃣ Install Dependencies
@@ -120,8 +122,8 @@ Open in browser:
 **Akshata More**  
 Cloud & Web Developer | AWS Certified  
 
-GitHub: https://github.com/MoreAkshata 
-LinkedIn: https://www.linkedin.com/in/akshata-more-a7445928b/
+GitHub: https://github.com/MoreAkshata
+LinkedIn: https://www.linkedin.com/in/akshata-more-a7445928b/ 
 
 ---
 
